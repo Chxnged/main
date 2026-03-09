@@ -1,0 +1,13 @@
+[project]
+name = "diser"
+version = "0.1.0"
+description = "Simple Discord framework"
+authors = [{name="DeinName"}]
+
+dependencies = [
+"requests"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
