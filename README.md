@@ -3,7 +3,7 @@
 Simple Discord framework.
 
 Example:
-```
+```py
 import diser
 
 bot = diser.App("TOKEN")
