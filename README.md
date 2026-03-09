@@ -3,7 +3,7 @@
 Simple Discord framework.
 
 Example:
-
+```
 import diser
 
 bot = diser.App("TOKEN")
@@ -15,3 +15,4 @@ def ping(msg):
         msg.answer("pong")
 
 bot.start()
+```
